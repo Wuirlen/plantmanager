@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "plant_manager",
+    "name": "Plantmanager",
     "slug": "plant_manager",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -17,9 +17,11 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.wuirlen.plantmanager"
     },
     "android": {
+      "package": "com.wuirlen.plantmanager",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
