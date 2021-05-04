@@ -92,7 +92,7 @@ export function MyPlants(){
                     />
                 )}
                 showsVerticalScrollIndicator={false}
-                contentContainerStyle={{ flex: 1 }}
+                // contentContainerStyle={{ flex: 1 }}
                 />
             </View>
 
